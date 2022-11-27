@@ -1,0 +1,2 @@
+.App{font-family:sans-serif;text-align:center}.app{width:600px;height:600px;background-color:#202020;padding-left:30%;padding-top:20%}.culculetor{display:grid;grid-template-columns:repeat(4,35px)}button{border-radius:20%;color:#fff;background-color:#606060}button.oper{background-color:#42790c}button.oper,button.start{width:35px;height:35px}.disply{grid-column-start:1;grid-column-end:5;border:1px solid #e7e7e7;height:40px;font-size:30px;padding-right:10px;padding-top:5px;text-align:right;color:#fff}
+/*# sourceMappingURL=main.86fac221.chunk.css.map */
